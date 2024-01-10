@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 --------------------------------
 
 * ✉️  You can contact me at [thynamoral18@gmail.com](mailto:thynamoral18@gmail.com)
-* 🚀  I'm currently working on [React Ts | Expense Tracker](http://github.com/thynamoral/react-expense-tracker)
+* 🚀  I'm currently working on [React-Router | Job Hub](https://github.com/thynamoral/react-router-jobHub)
 * 🧠  I'm learning Typescript, React, Redux and NextJs
 * 🤝  I'm open to collaborating on Frontend development related project!
 * ⚡  I love to watch anime and play volleyball.
