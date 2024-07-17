@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Namoral Thy
 ===================================================================================================================================
 
-3rd year Maths & Com-Sci student
+4th year Maths & Com-Sci student
 --------------------------------
 
 * ✉️  You can contact me at [thynamoral18@gmail.com](mailto:thynamoral18@gmail.com)
