@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 --------------------------------
 
 * ✉️  You can contact me at [thynamoral18@gmail.com](mailto:thynamoral18@gmail.com)
-* 🚀  I'm currently working on [Real Estate | MERN stack](https://github.com/thynamoral/real-estate-website)
+* 🚀  I'm currently working on [Job Flow | Next-Js Fullstack](https://github.com/thynamoral/nextjs-job-flow)
 * 🧠  I'm learning Back-end development!
 * 🤝  I'm open to collaborating on Frontend development related project!
 * ⚡  I love to watch anime and play volleyball.
