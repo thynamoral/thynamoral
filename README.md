@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 --------------------------------
 
 * I'm passionate about frontend development and have completed a 7-month internship in this field!
-* I'm currently working on an e-commerce side project [backend](https://github.com/thynamoral/e-commerce-backend)
+* I'm currently working on an e-commerce side project [backend](https://github.com/thynamoral/e-commerce-backend) [frontend](https://github.com/thynamoral/e-commerce-frontend)
 * I love to watch anime and play volleyball.
 * You can contact me at [thynamoral18@gmail.com](mailto:thynamoral18@gmail.com)
 
