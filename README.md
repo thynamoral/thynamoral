@@ -1,11 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Namoral Thy
 ===================================================================================================================================
 
-4th year Maths & Com-Sci student
+Full-Stack Developer at Vireak Buntham Logistics
 --------------------------------
 
-* I'm passionate about frontend development and have completed a 7-month internship in this field!
-* I'm currently working on an e-commerce side project [backend](https://github.com/thynamoral/e-commerce-backend) [frontend](https://github.com/thynamoral/e-commerce-frontend)
+* I'm currently learning and developing a project using Ruby on Rails.
 * I love to watch anime and play volleyball.
 * You can contact me at [thynamoral18@gmail.com](mailto:thynamoral18@gmail.com)
 
@@ -13,7 +12,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,sass,materialui,react,next,nodejs,java,express,mysql,postgres,mongo,linux,postman,git" alt="my-skills" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,sass,materialui,react,next,nodejs,java,express,ruby,rails,mysql,postgres,mongo,sqlite,linux,postman,git,docker" alt="my-skills" />
 </p>
 
 
